@@ -1,0 +1,3 @@
+C:/Users/damia/CLionProjects/pole, obwodd/cmake-build-debug/CMakeFiles/classcircle.dir
+C:/Users/damia/CLionProjects/pole, obwodd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/damia/CLionProjects/pole, obwodd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
